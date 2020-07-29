@@ -1,1 +1,1 @@
-# Interactive-Visualiztions-Dashboard-Challenge
+# Interactive-Visualizations-Dashboard-Challenge
