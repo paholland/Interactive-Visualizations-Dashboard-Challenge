@@ -1,4 +1,4 @@
-# Interactive-Visualizations-Dashboard-Challenge
+## Interactive-Visualizations-Dashboard-Challenge
 
     To build an interactive dashboard to explore the dataset.
 
@@ -8,4 +8,4 @@ Bubble Chart (uses otu_ids for x values; otu_ids for marker colors; sample_value
 
 Metadata and Deployment (metadata initializes without error; updates when a new sample is selected; app successfully deployed)
 
-HTML, CSS, JavaScript, Plotly 
+### HTML, CSS, JavaScript, Plotly 
